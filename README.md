@@ -1,0 +1,3 @@
+This project explores the generation of 3D models from 2D images using advanced deep learning techniques. By leveraging disparity maps, the system reconstructs three-dimensional structures from two-dimensional input data
+
+Just as human vision relies on both eyes viewing a scene from slightly different angles to perceive depth, disparity maps provide computers with a similar mechanism. By comparing multiple images captured from different viewpoints, these maps highlight positional differences of objects. This enables AI models to transform flat images into accurate and visually compelling 3D representations.
